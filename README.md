@@ -1,0 +1,1 @@
+The pipeline will encompass all stages from ingestion of the data to EDA, outlier identification, feature creation and selection, and model training and assessment using  Random Forest Classifier algorithm, CatBoost, LightGBM model and XGBOOST
